@@ -2,6 +2,8 @@
     "name": "ren/protocolized-server-react",
     "description": "Simple protocolized server implementation with ReactPHP/socket",
     "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "require": {
         "react/socket": "^1.13",
         "ren/protocolized-server": "^1.0"
