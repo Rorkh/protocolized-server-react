@@ -1,0 +1,20 @@
+{
+    "name": "ren/protocolized-server-react",
+    "description": "Simple protocolized server implementation with ReactPHP/socket",
+    "type": "library",
+    "require": {
+        "react/socket": "^1.13",
+        "ren/protocolized-server": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ren\\ProtocolizedServer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rorkh",
+            "email": "78957156+Rorkh@users.noreply.github.com"
+        }
+    ]
+}
